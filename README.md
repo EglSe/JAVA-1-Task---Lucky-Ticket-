@@ -1,5 +1,6 @@
 # JAVA užduotis - Laimingas bilietas
-Java kodas tikrina ar bilietas yra laimingas pagal kelis kriterijus:
+About
+JAVA programavimo kalba parašytas kodas, kurisz tikrina ar bilietas yra laimingas pagal kelis kriterijus:
 
 1)Bilietas turi būti šešiaženklis skaičius.
 2)Bilieto pirmos trys ir paskutinės trys skaitmenų sumos turi būti lygios.
